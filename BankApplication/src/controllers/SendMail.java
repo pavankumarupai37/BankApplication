@@ -24,8 +24,8 @@ public class SendMail extends HttpServlet
 		hs.setAttribute("EMAIL", email);
 		try
 		{
-		String fromEmail="pavankumarumeshpai@gmail.com"; //sender's mail id.
-		String pwd="Ned@ghytu6197";		//sender's mail pwd.
+		String fromEmail=""; //sender's mail id.
+		String pwd="";		//sender's mail pwd.
 		String toEmail=email;  //reciever's mail id.
 		
 		String subject="DO NOT REPLY: Mail from Java Program"; // mail subject line
