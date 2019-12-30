@@ -11,4 +11,4 @@ The project follows MVC Architecture and includes following modules:
 7.Get Mini Statement
 8.Logout
 
-
+Db used:Oracle 10g XE
